@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "KuduDiagnosticsDemoV2": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:3314;http://localhost:3315"
+    }
+  }
+}
